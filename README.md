@@ -1,4 +1,4 @@
-# Hyro
+# Hyro smart contracts
 
 This repo contains the smart contracts used in the Hyro protocol. This project has been created for the ETHCC 2022 hackaton in Paris.
 
